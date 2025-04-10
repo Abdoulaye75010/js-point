@@ -7,4 +7,6 @@ let point = new Point(5, 10)
 
 console.log(point);
 
-console.log(point.#abscisse);
+console.log(point.abscisse);
+
+console.log(point.ordonnee);
